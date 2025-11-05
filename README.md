@@ -4,7 +4,12 @@ A beautiful and intuitive desktop wallpaper browsing application built with Flut
 
 ## 📱 App Preview
 
-[Include screenshots or GIFs of your app here]
+[<img width="1602" height="995" alt="Screenshot 2025-11-05 125908" src="https://github.com/user-attachments/assets/f9d461a6-290b-41f9-b080-9570e523dab6" />
+<img width="1597" height="1000" alt="image" src="https://github.com/user-attachments/assets/773dac2c-22b5-4470-aa10-ffb8d662e692" />
+<img width="1610" height="1022" alt="image" src="https://github.com/user-attachments/assets/47ad63f3-48a3-439f-ab6d-513083a3a006" />
+<img width="1618" height="1003" alt="image" src="https://github.com/user-attachments/assets/6966e2e3-b6be-4659-b7ef-e39c0b86ce14" />
+<img width="1605" height="993" alt="image" src="https://github.com/user-attachments/assets/28c0550c-a8be-458c-bd5b-59d527cf5404" />
+]
 
 ## 🔗 Important Links
 
